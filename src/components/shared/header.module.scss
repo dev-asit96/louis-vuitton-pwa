@@ -1,0 +1,27 @@
+.header {
+  padding: 4px;
+  background: #2d3236;
+  text-align: left;
+Link{
+  color: aquamarine;
+}
+ 
+  a:hover{
+    color: #fff !important;
+    text-decoration: none !important;
+  }
+  
+  a {
+    display: inline-block;
+    margin-right: 0px;
+    padding: 5px 10px;
+    color: #9d835c;
+    font-weight: 600;
+    svg {
+      width: 18px;
+      margin-right: 5px;
+    }
+  }
+}
+
+
